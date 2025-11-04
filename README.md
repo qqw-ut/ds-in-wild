@@ -1,3 +1,5 @@
+This repository is a fork of a 5-member team project for resume–job matching (original repo by li14han).  
+
 # Resume-JD Matching System
 
 This project automatically matches resumes to job descriptions (JDs) and categorizes them based on relevance using natural language processing techniques.
